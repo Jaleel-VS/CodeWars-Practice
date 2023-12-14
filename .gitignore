@@ -1,0 +1,4 @@
+# rust files for gitignore
+
+Cargo.lock
+target/
